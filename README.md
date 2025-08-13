@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/7bcfeeee-e614-48a4-a8e5-d2551d6f2f77
+**URL**: [https://lovable.dev/projects/7bcfeeee-e614-48a4-a8e5-d2551d6f2f77](https://rentflow-on-chain.lovable.app/)
 
 ## How can I edit this code?
 
